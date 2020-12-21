@@ -1,0 +1,138 @@
+nohup: ignoring input
+
+
+**************  start new model : ResNet34_v2 ******************
+Files already downloaded and verified
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.05
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)
+-1
+False
+
+Epoch [1]
+[Train set] Loss: 1.6584, Accuracy: 15958/50000 (31.92%)  Epoch time : 43.4794 
+   LR : 0.0499
+[Test set] Average loss: 0.0060, Accuracy: 4435/10000 (44.35%)
+save by ./Result/ResNet34_v2/21_11_45/ResNet34_v2_best.pt
+
+Epoch [2]
+[Train set] Loss: 1.4034, Accuracy: 24754/50000 (49.51%)  Epoch time : 42.3822 
+   LR : 0.0495
+[Test set] Average loss: 0.0049, Accuracy: 5553/10000 (55.53%)
+save by ./Result/ResNet34_v2/21_11_45/ResNet34_v2_best.pt
+
+Epoch [3]
+[Train set] Loss: 0.9792, Accuracy: 30308/50000 (60.62%)  Epoch time : 42.4564 
+   LR : 0.0488
+[Test set] Average loss: 0.0043, Accuracy: 6216/10000 (62.16%)
+save by ./Result/ResNet34_v2/21_11_45/ResNet34_v2_best.pt
+
+Epoch [4]
+[Train set] Loss: 0.8613, Accuracy: 33867/50000 (67.73%)  Epoch time : 42.4677 
+   LR : 0.0478
+[Test set] Average loss: 0.0033, Accuracy: 7051/10000 (70.51%)
+save by ./Result/ResNet34_v2/21_11_45/ResNet34_v2_best.pt
+
+Epoch [5]
+[Train set] Loss: 0.7483, Accuracy: 36476/50000 (72.95%)  Epoch time : 42.5253 
+   LR : 0.0467
+[Test set] Average loss: 0.0035, Accuracy: 7005/10000 (70.05%)
+Time ellapsed in training is: 227.75664019584656
+save dir : ./Result/ResNet34_v2/21_11_45
+
+
+**************  start new model : ResNet34_v3 ******************
+Files already downloaded and verified
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.05
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)
+-1
+False
+/opt/conda/lib/python3.7/site-packages/torch/storage.py:34: FutureWarning: pickle support for Storage will be removed in 1.5. Use `torch.save` instead
+  warnings.warn("pickle support for Storage will be removed in 1.5. Use `torch.save` instead", FutureWarning)
+
+Epoch [1]
+[Train set] Loss: 1.9401, Accuracy: 11427/50000 (22.85%)  Epoch time : 35.9090 
+   LR : 0.0499
+[Test set] Average loss: 0.0072, Accuracy: 3256/10000 (32.56%)
+save by ./Result/ResNet34_v3/21_11_49/ResNet34_v3_best.pt
+
+Epoch [2]
+[Train set] Loss: 1.6708, Accuracy: 18480/50000 (36.96%)  Epoch time : 35.8975 
+   LR : 0.0495
+[Test set] Average loss: 0.0079, Accuracy: 3242/10000 (32.42%)
+
+Epoch [3]
+[Train set] Loss: 1.3876, Accuracy: 22568/50000 (45.14%)  Epoch time : 35.9163 
+   LR : 0.0488
+[Test set] Average loss: 0.0057, Accuracy: 4749/10000 (47.49%)
+save by ./Result/ResNet34_v3/21_11_49/ResNet34_v3_best.pt
+
+Epoch [4]
+[Train set] Loss: 1.2932, Accuracy: 26334/50000 (52.67%)  Epoch time : 35.9255 
+   LR : 0.0478
+[Test set] Average loss: 0.0056, Accuracy: 5086/10000 (50.86%)
+save by ./Result/ResNet34_v3/21_11_49/ResNet34_v3_best.pt
+
+Epoch [5]
+[Train set] Loss: 0.7803, Accuracy: 29950/50000 (59.90%)  Epoch time : 35.9563 
+   LR : 0.0467
+[Test set] Average loss: 0.0063, Accuracy: 4693/10000 (46.93%)
+Time ellapsed in training is: 191.88513779640198
+save dir : ./Result/ResNet34_v3/21_11_49
+
+
+**************  start new model : ResNet34_v4 ******************
+Files already downloaded and verified
+SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.05
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0.0005
+)
+-1
+False
+
+Epoch [1]
+[Train set] Loss: 1.4808, Accuracy: 14771/50000 (29.54%)  Epoch time : 46.4360 
+   LR : 0.0499
+[Test set] Average loss: 0.0072, Accuracy: 3595/10000 (35.95%)
+save by ./Result/ResNet34_v4/21_11_52/ResNet34_v4_best.pt
+
+Epoch [2]
+[Train set] Loss: 1.3535, Accuracy: 23029/50000 (46.06%)  Epoch time : 46.4600 
+   LR : 0.0495
+[Test set] Average loss: 0.0055, Accuracy: 5059/10000 (50.59%)
+save by ./Result/ResNet34_v4/21_11_52/ResNet34_v4_best.pt
+
+Epoch [3]
+[Train set] Loss: 1.1021, Accuracy: 28768/50000 (57.54%)  Epoch time : 46.5106 
+   LR : 0.0488
+[Test set] Average loss: 0.0050, Accuracy: 5564/10000 (55.64%)
+save by ./Result/ResNet34_v4/21_11_52/ResNet34_v4_best.pt
+
+Epoch [4]
+[Train set] Loss: 0.6684, Accuracy: 32701/50000 (65.40%)  Epoch time : 46.4798 
+   LR : 0.0478
+[Test set] Average loss: 0.0048, Accuracy: 5839/10000 (58.39%)
+save by ./Result/ResNet34_v4/21_11_52/ResNet34_v4_best.pt
+
+Epoch [5]
+[Train set] Loss: 0.9167, Accuracy: 35453/50000 (70.91%)  Epoch time : 46.4895 
+   LR : 0.0467
+[Test set] Average loss: 0.0038, Accuracy: 6708/10000 (67.08%)
+save by ./Result/ResNet34_v4/21_11_52/ResNet34_v4_best.pt
+Time ellapsed in training is: 248.6524133682251
+save dir : ./Result/ResNet34_v4/21_11_52
